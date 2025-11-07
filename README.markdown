@@ -38,7 +38,7 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 ## 🎯 Por que
 Node é a base do backend moderno. Aprender JavaScript e Express é essencial para construir APIs profissionais.
 
-> [!info]
+> [!NOTE]
 > Conexão: aplica fundamentos de lógica e Git em servidores reais.
 
 | ✅ | Meta Prática | Descrição |
@@ -64,7 +64,7 @@ Node é a base do backend moderno. Aprender JavaScript e Express é essencial pa
 ## 🎯 Por que
 TypeScript dá segurança e escalabilidade, sendo padrão em equipes profissionais.
 
-> [!info]
+> [!NOTE]
 > Conexão: refatora a API anterior, adicionando tipagem e boas práticas.
 
 | ✅ | Meta Prática | Descrição |
@@ -87,7 +87,7 @@ TypeScript dá segurança e escalabilidade, sendo padrão em equipes profissiona
 ## 🎯 Por que
 Persistência de dados é essencial. PostgreSQL é o banco padrão em backends modernos.
 
-> [!info]
+> [!NOTE]
 > Conexão: você integrará o banco real à sua API TypeScript.
 
 | ✅ | Meta Prática | Descrição |
