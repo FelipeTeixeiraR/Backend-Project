@@ -19,9 +19,9 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| 🔳 | Lógica de programação | Variáveis, tipos, operadores, condicionais e loops |
-| 🔳 | Funções e escopo | Parâmetros, retorno e reutilização de código |
-| 🔲 | Estruturas de dados | Arrays, objetos e manipulação com `map`, `filter`, `reduce` |
+| ☑️ | Lógica de programação | Variáveis, tipos, operadores, condicionais e loops |
+| ☑️ | Funções e escopo | Parâmetros, retorno e reutilização de código |
+| 🟡 | Estruturas de dados | Arrays, objetos e manipulação com `map`, `filter`, `reduce` |
 | 🔲 | Conceitos HTTP e JSON | Entender requisição, resposta e status codes |
 | 🔲 | Terminal | Criar e executar scripts no terminal |
 | 🔲 | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
