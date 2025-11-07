@@ -27,7 +27,7 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 | - [ ] | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
 | - [ ] | Repositório no GitHub | Criar um repositório e publicar scripts simples |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > Crie 3 scripts básicos (ex: calculadora, lista de tarefas, parser JSON) e publique com README no GitHub.
 
@@ -76,7 +76,7 @@ TypeScript dá segurança e escalabilidade, sendo padrão em equipes profissiona
 | - [ ] | Validação | Implementar `class-validator` ou `zod` |
 | - [ ] | Estrutura de pastas | `src/`, `routes/`, `controllers/`, `services/` |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > API Express totalmente em TypeScript, validada e tipada.
 
@@ -99,7 +99,7 @@ Persistência de dados é essencial. PostgreSQL é o banco padrão em backends m
 | - [ ] | CRUD persistente | Conectar API ao banco |
 | - [ ] | Seeds e .env | Popular dados e proteger credenciais |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > API completa com PostgreSQL + Prisma ORM e CRUD funcional.  
 
@@ -119,7 +119,7 @@ Containerização padroniza ambientes, evitando erros e facilitando deploys.
 | - [ ] | Testar stack | Rodar `docker-compose up` |
 | - [ ] | Documentar | Descrever comandos no README |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > API e DB rodando 100% via Docker Compose, com documentação de uso.
 
@@ -140,7 +140,7 @@ Python expande suas possibilidades para IA, automação e microserviços.
 | - [ ] | Banco | SQLAlchemy + PostgreSQL |
 | - [ ] | Docker | Containerizar microserviço |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > Microserviço FastAPI autenticado (JWT + PostgreSQL), documentado via Swagger.
 
@@ -159,7 +159,7 @@ APIs modernas exigem autenticação, documentação e flexibilidade.
 | - [ ] | Swagger completo | Documentar todas rotas |
 | - [ ] | Testes | Jest (Node) ou Pytest (Python) |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > API híbrida (REST + GraphQL), segura, testada e documentada.
 
@@ -178,7 +178,7 @@ CI/CD garante qualidade e entrega contínua, padrão de times profissionais.
 | - [ ] | Variáveis ambiente | Configurar `.env` no servidor |
 | - [ ] | Monitoramento | Healthchecks e logs básicos |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > Pipeline GitHub Actions com testes e deploy automático.
 
@@ -196,7 +196,7 @@ Transforma aprendizado em prova concreta de competência.
 | - [ ] | Publicar links | LinkedIn, GitHub e Deploys |
 | - [ ] | Preparar apresentação | Pitch técnico de 2 minutos |
 
-> [!success]
+> [!WARNING]
 > **Projeto Final:**  
 > Portfólio com 2 projetos deployados, documentação completa e perfil otimizado.
 
