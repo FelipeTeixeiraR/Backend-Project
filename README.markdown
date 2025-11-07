@@ -21,11 +21,11 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 |:--|:--------------|:-----------|
 | 🔳 | Lógica de programação | Variáveis, tipos, operadores, condicionais e loops |
 | 🔳 | Funções e escopo | Parâmetros, retorno e reutilização de código |
-| - [ ] | Estruturas de dados | Arrays, objetos e manipulação com `map`, `filter`, `reduce` |
-| - [ ] | Conceitos HTTP e JSON | Entender requisição, resposta e status codes |
-| - [ ] | Terminal | Criar e executar scripts no terminal |
-| - [ ] | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
-| - [ ] | Repositório no GitHub | Criar um repositório e publicar scripts simples |
+| 🔲 | Estruturas de dados | Arrays, objetos e manipulação com `map`, `filter`, `reduce` |
+| 🔲 | Conceitos HTTP e JSON | Entender requisição, resposta e status codes |
+| 🔲 | Terminal | Criar e executar scripts no terminal |
+| 🔲 | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
+| 🔲 | Repositório no GitHub | Criar um repositório e publicar scripts simples |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -43,14 +43,14 @@ Node é a base do backend moderno. Aprender JavaScript e Express é essencial pa
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | JavaScript moderno | `let`, `const`, arrow functions, destructuring |
-| - [ ] | Assíncrono | Entender Promises e `async/await` |
-| - [ ] | Node.js básico | `npm init`, módulos (`fs`, `http`), import/export |
-| - [ ] | Estrutura de projeto | Rotas, controladores, organização de pastas |
-| - [ ] | Express básico | Criar rotas GET, POST, PUT, DELETE |
-| - [ ] | Middlewares | Criar logs e tratamento de erros |
-| - [ ] | Status e respostas | Enviar códigos HTTP corretos e JSON padrão |
-| - [ ] | Testar API | Usar Postman ou Insomnia |
+| 🔲 | JavaScript moderno | `let`, `const`, arrow functions, destructuring |
+| 🔲 | Assíncrono | Entender Promises e `async/await` |
+| 🔲 | Node.js básico | `npm init`, módulos (`fs`, `http`), import/export |
+| 🔲 | Estrutura de projeto | Rotas, controladores, organização de pastas |
+| 🔲 | Express básico | Criar rotas GET, POST, PUT, DELETE |
+| 🔲 | Middlewares | Criar logs e tratamento de erros |
+| 🔲 | Status e respostas | Enviar códigos HTTP corretos e JSON padrão |
+| 🔲 | Testar API | Usar Postman ou Insomnia |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -69,12 +69,12 @@ TypeScript dá segurança e escalabilidade, sendo padrão em equipes profissiona
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | Configuração | Criar `tsconfig.json`, usar `ts-node` |
-| - [ ] | Tipos e interfaces | Aplicar tipagem em funções e objetos |
-| - [ ] | Classes e módulos | Estruturar código com orientação a objetos |
-| - [ ] | Refatorar API | Converter para TypeScript (rotas e controladores) |
-| - [ ] | Validação | Implementar `class-validator` ou `zod` |
-| - [ ] | Estrutura de pastas | `src/`, `routes/`, `controllers/`, `services/` |
+| 🔲 | Configuração | Criar `tsconfig.json`, usar `ts-node` |
+| 🔲 | Tipos e interfaces | Aplicar tipagem em funções e objetos |
+| 🔲 | Classes e módulos | Estruturar código com orientação a objetos |
+| 🔲 | Refatorar API | Converter para TypeScript (rotas e controladores) |
+| 🔲 | Validação | Implementar `class-validator` ou `zod` |
+| 🔲 | Estrutura de pastas | `src/`, `routes/`, `controllers/`, `services/` |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -92,12 +92,12 @@ Persistência de dados é essencial. PostgreSQL é o banco padrão em backends m
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | SQL básico | `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN` |
-| - [ ] | Modelagem | Tabelas, PK, FK, normalização simples |
-| - [ ] | Instalação | PostgreSQL local ou via Docker |
-| - [ ] | ORM | Configurar Prisma e migrations |
-| - [ ] | CRUD persistente | Conectar API ao banco |
-| - [ ] | Seeds e .env | Popular dados e proteger credenciais |
+| 🔲 | SQL básico | `SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN` |
+| 🔲 | Modelagem | Tabelas, PK, FK, normalização simples |
+| 🔲 | Instalação | PostgreSQL local ou via Docker |
+| 🔲 | ORM | Configurar Prisma e migrations |
+| 🔲 | CRUD persistente | Conectar API ao banco |
+| 🔲 | Seeds e .env | Popular dados e proteger credenciais |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -112,12 +112,12 @@ Containerização padroniza ambientes, evitando erros e facilitando deploys.
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | Conceito | Entender containers e imagens |
-| - [ ] | Dockerfile | Criar build da API |
-| - [ ] | docker-compose | Subir API + banco simultaneamente |
-| - [ ] | Variáveis | Usar `.env` e volumes persistentes |
-| - [ ] | Testar stack | Rodar `docker-compose up` |
-| - [ ] | Documentar | Descrever comandos no README |
+| 🔲 | Conceito | Entender containers e imagens |
+| 🔲 | Dockerfile | Criar build da API |
+| 🔲 | docker-compose | Subir API + banco simultaneamente |
+| 🔲 | Variáveis | Usar `.env` e volumes persistentes |
+| 🔲 | Testar stack | Rodar `docker-compose up` |
+| 🔲 | Documentar | Descrever comandos no README |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -132,13 +132,13 @@ Python expande suas possibilidades para IA, automação e microserviços.
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | Sintaxe Python | Listas, dicts, funções, async básico |
-| - [ ] | Ambiente | venv, pip, dependências |
-| - [ ] | FastAPI | Criar rotas e respostas JSON |
-| - [ ] | Swagger | Documentação automática |
-| - [ ] | JWT | Implementar autenticação |
-| - [ ] | Banco | SQLAlchemy + PostgreSQL |
-| - [ ] | Docker | Containerizar microserviço |
+| 🔲 | Sintaxe Python | Listas, dicts, funções, async básico |
+| 🔲 | Ambiente | venv, pip, dependências |
+| 🔲 | FastAPI | Criar rotas e respostas JSON |
+| 🔲 | Swagger | Documentação automática |
+| 🔲 | JWT | Implementar autenticação |
+| 🔲 | Banco | SQLAlchemy + PostgreSQL |
+| 🔲 | Docker | Containerizar microserviço |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -153,11 +153,11 @@ APIs modernas exigem autenticação, documentação e flexibilidade.
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | REST avançado | Padrões, versionamento, erros |
-| - [ ] | JWT avançado | Refresh tokens, expiração |
-| - [ ] | GraphQL | Schemas, resolvers, mutations |
-| - [ ] | Swagger completo | Documentar todas rotas |
-| - [ ] | Testes | Jest (Node) ou Pytest (Python) |
+| 🔲 | REST avançado | Padrões, versionamento, erros |
+| 🔲 | JWT avançado | Refresh tokens, expiração |
+| 🔲 | GraphQL | Schemas, resolvers, mutations |
+| 🔲 | Swagger completo | Documentar todas rotas |
+| 🔲 | Testes | Jest (Node) ou Pytest (Python) |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -172,11 +172,11 @@ CI/CD garante qualidade e entrega contínua, padrão de times profissionais.
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | GitHub Actions | Configurar pipeline automatizado |
-| - [ ] | Testes no pipeline | Rodar Jest/Pytest antes do deploy |
-| - [ ] | Deploy automático | Render, Railway ou AWS |
-| - [ ] | Variáveis ambiente | Configurar `.env` no servidor |
-| - [ ] | Monitoramento | Healthchecks e logs básicos |
+| 🔲 | GitHub Actions | Configurar pipeline automatizado |
+| 🔲 | Testes no pipeline | Rodar Jest/Pytest antes do deploy |
+| 🔲 | Deploy automático | Render, Railway ou AWS |
+| 🔲 | Variáveis ambiente | Configurar `.env` no servidor |
+| 🔲 | Monitoramento | Healthchecks e logs básicos |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -191,10 +191,10 @@ Transforma aprendizado em prova concreta de competência.
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| - [ ] | Revisar código | Melhorar estrutura e limpeza |
-| - [ ] | README profissional | Badges, instruções e exemplos |
-| - [ ] | Publicar links | LinkedIn, GitHub e Deploys |
-| - [ ] | Preparar apresentação | Pitch técnico de 2 minutos |
+| 🔲 | Revisar código | Melhorar estrutura e limpeza |
+| 🔲 | README profissional | Badges, instruções e exemplos |
+| 🔲 | Publicar links | LinkedIn, GitHub e Deploys |
+| 🔲 | Preparar apresentação | Pitch técnico de 2 minutos |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -203,7 +203,7 @@ Transforma aprendizado em prova concreta de competência.
 ---
 
 # 🧠 DICA FINAL
-> [!tip]
+> [!TIP]
 > - Reforce fundamentos sempre que sentir dificuldade.  
 > - Documente tudo no GitHub.  
 > - Faça commits pequenos e descritivos.  
