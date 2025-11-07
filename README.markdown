@@ -52,7 +52,7 @@ Node é a base do backend moderno. Aprender JavaScript e Express é essencial pa
 | - [ ] | Status e respostas | Enviar códigos HTTP corretos e JSON padrão |
 | - [ ] | Testar API | Usar Postman ou Insomnia |
 
-> [!success]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > Desenvolva sua **primeira API REST** com Express.js (CRUD completo).  
 > Documente endpoints e publique no GitHub.
@@ -76,7 +76,7 @@ TypeScript dá segurança e escalabilidade, sendo padrão em equipes profissiona
 | - [ ] | Validação | Implementar `class-validator` ou `zod` |
 | - [ ] | Estrutura de pastas | `src/`, `routes/`, `controllers/`, `services/` |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > API Express totalmente em TypeScript, validada e tipada.
 
@@ -99,7 +99,7 @@ Persistência de dados é essencial. PostgreSQL é o banco padrão em backends m
 | - [ ] | CRUD persistente | Conectar API ao banco |
 | - [ ] | Seeds e .env | Popular dados e proteger credenciais |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > API completa com PostgreSQL + Prisma ORM e CRUD funcional.  
 
@@ -119,7 +119,7 @@ Containerização padroniza ambientes, evitando erros e facilitando deploys.
 | - [ ] | Testar stack | Rodar `docker-compose up` |
 | - [ ] | Documentar | Descrever comandos no README |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > API e DB rodando 100% via Docker Compose, com documentação de uso.
 
@@ -140,7 +140,7 @@ Python expande suas possibilidades para IA, automação e microserviços.
 | - [ ] | Banco | SQLAlchemy + PostgreSQL |
 | - [ ] | Docker | Containerizar microserviço |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > Microserviço FastAPI autenticado (JWT + PostgreSQL), documentado via Swagger.
 
@@ -159,7 +159,7 @@ APIs modernas exigem autenticação, documentação e flexibilidade.
 | - [ ] | Swagger completo | Documentar todas rotas |
 | - [ ] | Testes | Jest (Node) ou Pytest (Python) |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > API híbrida (REST + GraphQL), segura, testada e documentada.
 
@@ -178,7 +178,7 @@ CI/CD garante qualidade e entrega contínua, padrão de times profissionais.
 | - [ ] | Variáveis ambiente | Configurar `.env` no servidor |
 | - [ ] | Monitoramento | Healthchecks e logs básicos |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > Pipeline GitHub Actions com testes e deploy automático.
 
@@ -196,7 +196,7 @@ Transforma aprendizado em prova concreta de competência.
 | - [ ] | Publicar links | LinkedIn, GitHub e Deploys |
 | - [ ] | Preparar apresentação | Pitch técnico de 2 minutos |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > Portfólio com 2 projetos deployados, documentação completa e perfil otimizado.
 
