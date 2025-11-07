@@ -1,6 +1,6 @@
 # 🚀 ROTEIRO COMPLETO BACKEND — Obsidian Edition
 
-> [!info]
+> [!NOTE]
 > **Objetivo:** tornar-se um desenvolvedor backend completo e empregável.  
 > **Duração sugerida:** 6–8 meses | **Carga semanal:** 10–15h  
 > **Foco:** Node.js, TypeScript, PostgreSQL, Docker, Python (FastAPI), CI/CD e APIs modernas.  
