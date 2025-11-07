@@ -27,7 +27,7 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 | - [ ] | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
 | - [ ] | Repositório no GitHub | Criar um repositório e publicar scripts simples |
 
-> [!WARNING]
+> [!IMPORTANT]
 > **Projeto Final:**  
 > Crie 3 scripts básicos (ex: calculadora, lista de tarefas, parser JSON) e publique com README no GitHub.
 
