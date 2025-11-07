@@ -14,7 +14,7 @@
 ## 🎯 Por que
 Entender lógica, terminal, versionamento e noções web é o alicerce de todo backend.
 
-> [!tip]
+> [!TIP]
 > Objetivo: dominar lógica, comandos básicos de terminal, Git e fundamentos de HTTP/JSON.
 
 | ✅ | Meta Prática | Descrição |
