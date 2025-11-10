@@ -22,10 +22,10 @@ Entender lógica, terminal, versionamento e noções web é o alicerce de todo b
 | ☑️ | Lógica de programação | Variáveis, tipos, operadores, condicionais e loops |
 | ☑️ | Funções e escopo | Parâmetros, retorno e reutilização de código |
 | ☑️ | Estruturas de dados | Arrays, objetos e manipulação com `map`, `filter`, `reduce` |
-| 🟡 | Conceitos HTTP e JSON | Entender requisição, resposta e status codes       https://www.youtube.com/watch?v=BWPUSXzSWA8  depois https://www.youtube.com/watch?v=ecQqqiHNtok|
-| 🔲 | Terminal | Criar e executar scripts no terminal |
-| 🔲 | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
-| 🔲 | Repositório no GitHub | Criar um repositório e publicar scripts simples |
+| !!! | Conceitos HTTP e JSON | Entender requisição, resposta e status codes       https://www.youtube.com/watch?v=BWPUSXzSWA8  depois https://www.youtube.com/watch?v=ecQqqiHNtok|
+| ☑️ | Terminal | Criar e executar scripts no terminal |
+| ☑️ | Git básico | `init`, `add`, `commit`, `branch`, `push` e `merge` |
+| ☑️ | Repositório no GitHub | Criar um repositório e publicar scripts simples |
 
 > [!IMPORTANT]
 > **Projeto Final:**  
@@ -43,7 +43,7 @@ Node é a base do backend moderno. Aprender JavaScript e Express é essencial pa
 
 | ✅ | Meta Prática | Descrição |
 |:--|:--------------|:-----------|
-| 🔲 | JavaScript moderno | `let`, `const`, arrow functions, destructuring |
+| 🟡 | JavaScript moderno | `let`, `const`, arrow functions, destructuring |
 | 🔲 | Assíncrono | Entender Promises e `async/await` |
 | 🔲 | Node.js básico | `npm init`, módulos (`fs`, `http`), import/export |
 | 🔲 | Estrutura de projeto | Rotas, controladores, organização de pastas |
